@@ -1,0 +1,22 @@
+
+Learn Next.js by building a full-stack CRUD app | Nextjs + Firebase (Auth & Firestore) + TailwindCSS
+*******************************************************************************************************
+https://www.youtube.com/watch?v=UzMr7-0FgA0
+
+https://github.com/jamezmca/nextjs-todo
+
+
+npx create-next-app@12.1.6 my-nextjs-todo
+
+C:\Users\michael\source\AfterAfcon\NextJS-Todo\MyCode>nvm ls
+
+    18.18.2
+    18.10.0
+  * 16.13.1 (Currently using 64-bit executable)
+
+C:\Users\michael\source\AfterAfcon\NextJS-Todo\MyCode>nvm use 18.18.2
+Now using node v18.18.2 (64-bit)
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
