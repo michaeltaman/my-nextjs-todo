@@ -26,6 +26,7 @@ export default function Login() {
             }
         } catch (err) {
             setError('Incorrect email or password'); // Fallback for other errors
+            return;
         }
         await signup(email, password)
     }
